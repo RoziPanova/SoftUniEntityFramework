@@ -1,6 +1,6 @@
 # 💗 SoftUni Entity Framework
 
-> 🌸 *A SoftUni Entity Framework course I graduated in 2024.*
+> 🌸 *A SoftUni Entity Framework course I took in 2024.*
 
 ---
 
